@@ -1,3 +1,3 @@
 [
-    {"op": "replace", "path": "/spec/host", "value": "contacts-dev.apps.ocp-dev.aws.pitt.ca"}
+    {"op": "replace", "path": "/spec/host", "value": "contacts-dev.apps.cluster-39b2.39b2.example.opentlc.com"}
 ]
